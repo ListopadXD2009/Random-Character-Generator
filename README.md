@@ -6,3 +6,4 @@ A Simple C# Program that generates a Random String of Gibberish with one button.
 
 # Requirements
 Requires NET Framework 4.7.2.
+Works on Windows 7-11 (not Vista or XP)
