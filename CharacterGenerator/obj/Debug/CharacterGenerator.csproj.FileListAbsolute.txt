@@ -1,0 +1,11 @@
+C:\Users\listo\Desktop\Visual Studio Projects\CharacterGenerator\CharacterGenerator\bin\Debug\CharacterGenerator.exe.config
+C:\Users\listo\Desktop\Visual Studio Projects\CharacterGenerator\CharacterGenerator\bin\Debug\CharacterGenerator.exe
+C:\Users\listo\Desktop\Visual Studio Projects\CharacterGenerator\CharacterGenerator\bin\Debug\CharacterGenerator.pdb
+C:\Users\listo\Desktop\Visual Studio Projects\CharacterGenerator\CharacterGenerator\obj\Debug\CharacterGenerator.csproj.AssemblyReference.cache
+C:\Users\listo\Desktop\Visual Studio Projects\CharacterGenerator\CharacterGenerator\obj\Debug\CharacterGenerator.Form1.resources
+C:\Users\listo\Desktop\Visual Studio Projects\CharacterGenerator\CharacterGenerator\obj\Debug\CharacterGenerator.Properties.Resources.resources
+C:\Users\listo\Desktop\Visual Studio Projects\CharacterGenerator\CharacterGenerator\obj\Debug\CharacterGenerator.csproj.GenerateResource.cache
+C:\Users\listo\Desktop\Visual Studio Projects\CharacterGenerator\CharacterGenerator\obj\Debug\CharacterGenerator.csproj.CoreCompileInputs.cache
+C:\Users\listo\Desktop\Visual Studio Projects\CharacterGenerator\CharacterGenerator\obj\Debug\CharacterGenerator.exe
+C:\Users\listo\Desktop\Visual Studio Projects\CharacterGenerator\CharacterGenerator\obj\Debug\CharacterGenerator.pdb
+C:\Users\listo\Desktop\Visual Studio Projects\CharacterGenerator\CharacterGenerator\obj\Debug\CharacterGenerator.exe.config
