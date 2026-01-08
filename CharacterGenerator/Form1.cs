@@ -21,7 +21,7 @@ namespace CharacterGenerator
 
         private static string GenerateGibberish(int nLength)
         {
-            const string chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()_-+=<>?";
+            string chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()_-+=<>?";
             StringBuilder sb = new StringBuilder(nLength);
 
             for (int i = 0; i < nLength; i++)
@@ -43,3 +43,4 @@ namespace CharacterGenerator
         }
     }
 }
+
